@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  An open source telegram group management bot written in python with the help of python-telegram-bot, telethon and pyrogram using sqlalchemy and mongodb as database.
+  name: FallenRobot-1 version: 1.0 type: Repository author: VarshuAi description: >   An open source telegram group management bot written in python with the help of python-telegram-bot, telethon and pyrogram using sqlalchemy and mongodb as database. primary_tech: Python
 primary_tech: Python
 ```
 
